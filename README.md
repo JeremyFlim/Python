@@ -11,6 +11,6 @@ You are able to input the starting money, the goal money, the win chance in perc
 Be aware that higher values of starting money, goal money, a win chance closer to 50%, and a high number of games will take a very long time to run.
 
 To run this program, you will need to install matplotlib. To do that, run this in your command prompt:
-'''
+```
 pip install matplotlib
-'''
+```
