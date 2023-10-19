@@ -1,3 +1,6 @@
+# What is this?
+This is just a collection of random Python projects (usually pretty old) I've decided to upload here and don't belong anywhere else.
+
 # Bad Calculator
 A simple command-line calculator. You have to manually type operations (e.g. Addition, Multiplication. Type operationslist for a list) and then type the two numbers you wish to perform that calculation on. For now, it can only handle two numbers at a time and four operations: Addition, Subtraction, Multiplication, and Division. It rounds divisions with very high values.
 
