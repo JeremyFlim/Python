@@ -1,7 +1,7 @@
 # Bad Calculator
 A simple command-line calculator. You have to manually type operations (e.g. Addition, Multiplication. Type operationslist for a list) and then type the two numbers you wish to perform that calculation on. For now, it can only handle two numbers at a time and four operations: Addition, Subtraction, Multiplication, and Division. It rounds divisions with very high values.
 
-Just run the program to use it.
+Just run the program to use it (requires Python)
 
 # Gambling Simulator
 A command-line classic gambler's ruin simulator. This simulator will "toss a coin" (but with adjustable odds) and winning will award $1 while losing will cost you $1. 
